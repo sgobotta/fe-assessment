@@ -1,0 +1,17 @@
+[
+  { "id": 1,  "name": "Aurora Wireless Headphones", "category": "audio",     "price": 199, "rating": 4.6 },
+  { "id": 2,  "name": "Pulse Bluetooth Speaker",     "category": "audio",     "price": 89,  "rating": 4.2 },
+  { "id": 3,  "name": "Nimbus Noise-Cancel Earbuds", "category": "audio",     "price": 149, "rating": 4.8 },
+  { "id": 4,  "name": "Vertex Smartwatch",           "category": "wearables", "price": 259, "rating": 4.4 },
+  { "id": 5,  "name": "Stride Fitness Band",         "category": "wearables", "price": 79,  "rating": 4.0 },
+  { "id": 6,  "name": "Halo Sleep Ring",             "category": "wearables", "price": 299, "rating": 4.1 },
+  { "id": 7,  "name": "Ember Smart Mug",             "category": "home",      "price": 129, "rating": 4.3 },
+  { "id": 8,  "name": "Lumen Desk Lamp",             "category": "home",      "price": 59,  "rating": 4.5 },
+  { "id": 9,  "name": "Breeze Air Purifier",         "category": "home",      "price": 219, "rating": 4.7 },
+  { "id": 10, "name": "Cascade Water Sensor",        "category": "home",      "price": 39,  "rating": 3.9 },
+  { "id": 11, "name": "Echo Studio Microphone",      "category": "audio",     "price": 179, "rating": 4.5 },
+  { "id": 12, "name": "Terra Hiking Watch",          "category": "wearables", "price": 189, "rating": 4.2 },
+  { "id": 13, "name": "Nova Portable Charger",       "category": "home",      "price": 49,  "rating": 4.6 },
+  { "id": 14, "name": "Drift Sound Machine",         "category": "audio",     "price": 69,  "rating": 4.0 },
+  { "id": 15, "name": "Orbit Smart Scale",           "category": "wearables", "price": 99,  "rating": 3.8 }
+]

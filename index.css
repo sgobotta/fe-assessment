@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #0a31ba;
+  --color-secondary: #f74bb3;
+  --color-white: #ffffff;
+  --color-black: #181818;
+  --color-white-brighter: #f4f4f4;
+  --color-gray-dark: #979797;
+}
+
+body {
+  @apply min-h-screen bg-white-brighter text-black antialiased;
+  background-image:
+    radial-gradient(circle at 10% 0%, rgb(10 49 186 / 0.12), transparent 40%),
+    radial-gradient(circle at 90% 10%, rgb(247 75 179 / 0.12), transparent 45%);
+  background-attachment: fixed;
+}
